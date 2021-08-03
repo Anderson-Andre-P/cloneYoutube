@@ -17,7 +17,7 @@
 ### Features
 
 - [x] Feito sem frameworks
-- [x] COnsumo de API
+- [x] Consumo de API
 
 <p>
   O Website funciona em qualquer navegador moderno.
